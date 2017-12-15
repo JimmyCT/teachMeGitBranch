@@ -36,3 +36,5 @@ git checkout ${branchName}
 *** git reset
 
 *** git checkout ${fileName}
+
+*** git pull
