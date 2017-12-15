@@ -15,3 +15,4 @@ git branch
 
 git checkout ${branchName}
 
+*** git remote set-url origin ${.git-link}
